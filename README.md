@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ParisSakkoulas
-- 👀 I’m interested in Software Engineering and especially in Web Development
+- 👀 I am a Software Engineering, currently interested in Software Development and especially in Web Development.
 - 📫 How to reach me via email parissakkoulas@gmail.com
 
 <!---
