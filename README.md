@@ -27,6 +27,7 @@ Tech Stack: HTML, Bootstrap, CSS, MySQL
 
 
 🛠️ Technologies & Tools:
+
 Frontend: Angular, Bootstrap
 
 Backend: Node.js, Express, RESTful APIs
@@ -38,6 +39,7 @@ Development Tools: Visual Studio Code, MySQL Workbench
 
 
 🌟 Certifications & Courses:
+
 Angular: The Complete Guide 2023 Edition
 
 Angular and Node.js: The MEAN Stack Guide
