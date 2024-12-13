@@ -9,6 +9,7 @@ I'm passionate about creating dynamic, user-centric web applications and backend
 Information and Communication Systems Engineering
 University of the Aegean (2016–2023)
 Thesis: Web Research Profile Management
+
 🚀 Projects Highlights:
 
 Web Research Profile Management
@@ -24,17 +25,17 @@ Student Information System
 A web app for student course registration and grade assignment.
 Tech Stack: HTML, Bootstrap, CSS, MySQL
 
-🛠️ Technologies & Tools:
 
+🛠️ Technologies & Tools:
 Frontend: Angular, Bootstrap
 Backend: Node.js, Express, RESTful APIs
 Databases: MySQL, MongoDB
 Development Tools: Visual Studio Code, MySQL Workbench
-🌟 Certifications & Courses:
 
+🌟 Certifications & Courses:
 Angular: The Complete Guide 2023 Edition
 Angular and Node.js: The MEAN Stack Guide
-📫 Let’s connect!
 
+📫 Let’s connect!
 Email: parissakkoulas@gmail.com
 LinkedIn: Paris Sakkoulas
