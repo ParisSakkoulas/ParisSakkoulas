@@ -1,5 +1,7 @@
 👋 Hi, I’m Paris Sakkoulas
+
 💻 Software Engineer
+
 I'm passionate about creating dynamic, user-centric web applications and backend systems. With a strong foundation in programming languages like C, C++, Java, JavaScript, and TypeScript, I specialize in modern web technologies and software engineering.
 
 🎓 Education:
