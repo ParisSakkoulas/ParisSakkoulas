@@ -17,13 +17,14 @@ Full-stack app managing academic publications and profiles.
 Tech Stack: Angular, Node.js, Express, MySQL
 GitHub Repository
 
-Movie Shopping Cart
-A backend system for a movie shop with user authentication and CRUD operations.
-Tech Stack: Node.js, Express, MongoDB
+Book E-shop
+A full stack web app shop with user authentication and CRUD operations.
+Tech Stack: Angular, Node.js, Express, MongoDB
 
 Student Information System
 A web app for student course registration and grade assignment.
 Tech Stack: HTML, Bootstrap, CSS, MySQL
+
 
 
 🛠️ Technologies & Tools:
