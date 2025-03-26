@@ -29,9 +29,9 @@ Tech Stack: HTML, Bootstrap, CSS, MySQL
 
 🛠️ Technologies & Tools:
 
-Frontend: Angular, Bootstrap
+Frontend: Angular, HTML, CSS, JavaScript, Bootstrap, PrimeNG, Angular Material
 
-Backend: Node.js, Express, RESTful APIs
+Backend: Node.js, Express, NestJS, RESTful APIs
 
 Databases: MySQL, MongoDB
 
